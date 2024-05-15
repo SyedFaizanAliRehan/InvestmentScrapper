@@ -1,5 +1,15 @@
 # Investors Scrapper
 
+## Description:
+
+This repository contains an automation script designed to scrape investor details from [Tech in Asia](https://www.techinasia.com/), a leading platform for technology news, events, and startup information in Asia. The script extracts relevant information about investors, making it easier to compile data for analysis, reporting, or other purposes.
+
+## Installation
+
+To get started with the script, clone this repository and install the required dependencies:
+
+- git clone https://github.com/SyedFaizanAliRehan/InvestmentScrapper
+
 1. Create a virtual environment using the below formula
 
    #### python -m venv .venv
