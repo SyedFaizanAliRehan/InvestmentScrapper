@@ -7,9 +7,9 @@
 2. Activate the virtual environment
 
    - Open terminal in VSCode as CMD profile
-   - If your virtual environment is active the path will be as (.venv) C:\Users'\'...
+   - If your virtual environment is active the path will be as (.venv) C:\\Users\\username\\...
    - If virtual environment is not active then use the below command to activate it
-     #### .'\'.venv\Scripts\activate.ba
+     #### .\\.venv\\Scripts\\activate.bat
 
 3. Run the below commands to install the requirements
 
