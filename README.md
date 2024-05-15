@@ -15,7 +15,7 @@
 
    #### pip install -r requirements.txt
 
-4. Download the compatible chromedriver from the website: and paste it in the folder where main.py is present
+4. Download the compatible chromedriver from the website "https://googlechromelabs.github.io/chrome-for-testing/ "and paste it in the folder where main.py is present
 
 5. Run the code using
 
