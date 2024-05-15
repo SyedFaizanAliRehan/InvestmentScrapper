@@ -8,7 +8,7 @@ This repository contains an automation script designed to scrape investor detail
 
 To get started with the script, clone this repository and install the required dependencies:
 
-- git clone https://github.com/SyedFaizanAliRehan/InvestmentScrapper
+- git clone https://github.com/SyedFaizanAliRehan/InvestorsScrapper
 
 1. Create a virtual environment using the below formula
 
